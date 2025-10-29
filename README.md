@@ -101,7 +101,7 @@
 #### Стандартная обработка
 Стандартная обработка включает в себя приём анкет через бота:<br>
 
-![Image](https://github.com/VelDanXx/manual-ncs/blob/main/image/image2.png)<br>
+![Image](https://github.com/VelDanXx/manual-ncs/blob/main/image/image.png)<br>
 
 Плюсы:<br>
 - Автоматизация в предоставлении дополнительной информации о сервере<br>
