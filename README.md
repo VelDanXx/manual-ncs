@@ -100,7 +100,7 @@
 
 #### Стандартная обработка
 Стандартная обработка включает в себя приём анкет через бота:<br>
-[Image](https://github.com/VelDanXx/manual-ncs/blob/main/image/image2.png)
+![Image](https://github.com/VelDanXx/manual-ncs/blob/main/image/image2.png)<br>
 Плюсы:
 - Автоматизация в предоставлении дополнительной информации о сервере
 - При "Принятии" анкеты заявителю сразу выдаётся роль @Игрок - NCS и игровой ник автоматически (Через RCON) заноситься в Whitelist
@@ -129,14 +129,14 @@
 ### Анализ заявителя
 Анализировать участника можно как и через бота в **стандартной обработке** так и ещё самостоятельно, например:
 - Простым поиском
-[Image2](https://github.com/VelDanXx/manual-ncs/blob/main/image/image2.png)
+![Image2](https://github.com/VelDanXx/manual-ncs/blob/main/image/image2.png)
 Рекомендуется таким способом минимально глазами пробежаться, что пишет участник, как часто, общее кол-во результатов и посмотреть где это он пишет.
 Пролистывать сотни страниц не требуется, достаточно парочку из них.
 - Через бота 
 Окно с информацией о пользователе всплывает когда вы нажимаете на кнопку "Лупы"
-[Image3](https://github.com/VelDanXx/manual-ncs/blob/main/image/image3.png)
+![Image3](https://github.com/VelDanXx/manual-ncs/blob/main/image/image3.png)
 -# Существует также команда `/user`, однако она без minecraft-профиля.
-[Image4](https://github.com/VelDanXx/manual-ncs/blob/main/image/image4.png)
+![Image4](https://github.com/VelDanXx/manual-ncs/blob/main/image/image4.png)
 Анализировать информацию через бота также можно и даже в моментах удобнее. Однако для лучшего анализа рекомендуется использовать оба метода.
 
 #### Дополнительные методы анализа
