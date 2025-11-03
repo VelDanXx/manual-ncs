@@ -1,4 +1,4 @@
-# manual-ncs
+# Manual NCS
 Справочник для персонала NCS.  
 Не путайте с NCLDS!
 
